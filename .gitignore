@@ -1,0 +1,7 @@
+throttleitem.pro.user
+qrc_*
+*.o
+moc_*
+Makefile
+.qmake.stash
+throttleitem_example
